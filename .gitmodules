@@ -1,0 +1,9 @@
+[submodule "tenant1"]
+	path = tenant1
+	url = https://github.com/masonman99/tenant1.git
+[submodule "tenant2"]
+	path = tenant2
+	url = https://github.com/masonman99/tenant2.git
+[submodule "common"]
+	path = common
+	url = https://github.com/masonman99/common.git
