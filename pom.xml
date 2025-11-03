@@ -21,6 +21,6 @@
   <modules>
     <module>tenant1</module>
     <!--module>tenant2</module-->
-    <!--module>common</module-->
+    <module>common</module>
   </modules>
 </project>
