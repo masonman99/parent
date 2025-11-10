@@ -20,7 +20,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <modules>
     <module>tenant1</module>
-    <:wqmodule>tenant2</module>
+    <module>tenant2</module>
     <module>common</module>
   </modules>
 </project>
